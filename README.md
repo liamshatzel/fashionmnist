@@ -1,4 +1,5 @@
 # Classifying fashion MNIST using simple dense layers
+https://sites.google.com/view/uvic-ieee-sb/ML/
 <ul>
 <li>Currently at around ~90% accuracy with massive overfit</li>
 <li>Attempting to reach ~94%</li>
